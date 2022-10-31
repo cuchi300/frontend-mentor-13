@@ -106,6 +106,9 @@ img{
     box-shadow: 1px 2px 5px -2px var(--Very-Dark-Cyan);
     color: var();
 }
+.community__link:hover{
+    background-color: var(--Light-Pink);
+}
 @media (min-width: 768px){	
     .community__link{
         padding: 1.7rem 7rem;
